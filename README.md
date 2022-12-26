@@ -1,11 +1,4 @@
-# ctfd-neon-theme
-Compatible with CTFd Version 3.4.0
-
-Few Screenshots:
-
- ![Index Page](screenshots/index.png "Index Page")
- 
- ![Login Page](screenshots/login.png "Login Page")
+# Fork of ctfd-neon-theme for a private event
 
 ## Install
 ```
