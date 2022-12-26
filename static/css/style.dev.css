@@ -995,3 +995,40 @@ body.ht-tm-neon-glow .ht-navbar-wrapper {
 
 .ht-tm-navbar-title {
   font-size: 25px; }
+
+
+/*
+ * custom signal stuff
+ */
+
+.text-signal {
+  color: #ffcc00 !important;
+}
+
+.text-signal-glow {
+  color: #ffcc00;
+  text-shadow:
+    0 0 7px #ffcc00,
+    0 0 10px #ffcc00;
+}
+
+.text-signal-glow:hover {
+  color: #ff0033;
+  text-shadow:
+    0 0 7px #ff0033,
+    0 0 15px #ff0033;
+}
+
+.btn-outline-signal {
+  color: #ffcc00 !important;
+  text-shadow:
+    0 0 5px #ffcc00;
+  border-color: #ffcc00 !important;
+}
+
+.btn-outline-signal:hover {
+  color: #ff0033 !important;
+  text-shadow:
+    0 0 5px #ff0033;
+  border-color: #ff0033 !important;
+}
